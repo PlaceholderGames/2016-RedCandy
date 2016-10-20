@@ -9,9 +9,13 @@ The first level starts with a character –Katherine- bringing in her 3 friends 
 Katherine’s dog has been taken by Ted the mafia bear who has taken over the gingerbread castle.
 
 Characters:
+
 Muffi – Vampire. She has daggers or something that she throws. 
-Jamie – Tank. He has a shield that absorbs damage. 
+
+Jamie – Tank, uses sheild to block incoming projectiles, smash back enemies and to push objects.
+
 Scott – Guitar person. He has a guitar that shoots lasers. 
+
 Katherine – Fallen queen. Stuns people with hearts. 
 
 Levels:
