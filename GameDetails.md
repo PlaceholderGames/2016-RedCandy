@@ -5,6 +5,7 @@ Guys - Please put information about your levels and characters.
 Setting:
 	A land made of candy.
 	Night Time.
+	
 The first level starts with a character –Katherine- bringing in her 3 friends from their lands into her land –candy land-
 Katherine’s dog has been taken by Ted the mafia bear who has taken over the gingerbread castle.
 
@@ -20,7 +21,7 @@ Katherine – Fallen queen. Stuns people with hearts.
 
 Enemies:
 
-Jelly baby monster things.
+Jelly baby monster things/ or trash monsters.
 Mafia boss teddy.
 
 Levels:
