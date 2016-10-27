@@ -6,3 +6,8 @@ the screen when she crashes into them.
 Muffi - Has done a background and started doing the tiles. She has most of the floor and spikes and has some temporary platforms 
 which will be made ginger bread colour. 
 
+Scott - I have created my character (Axten) and a visual for the projectils he will fire (lasers) using Gimp and have imported them into my level.
+I have created a temp sprit for the jelly baby monsters and imported into my level just to represent them during testing.
+I have made it so that Axten stands on one spot and fires lasers (he always faces the direction of the cursor).
+I have made it so that Jelly baby monsters will spawn at certain points every x seconds (the times will by different for different spawns).
+The Jelly baby monsters move up to the top of the level where Axten is but they are yet to kill him and restart the level.
