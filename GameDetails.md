@@ -25,7 +25,7 @@ Jelly baby monster things/ or trash monsters.
 Mafia boss teddy.
 
 Levels:
-Level 1 – Characters are pulled through a portal to join Katherine. They land outside the castle onto the clouds. There are lakes and spikes that the characters need to jump onto platforms in order to avoid death. Muffi will throw her daggers/glaives whatever they are at various Jelly Babies that are trying to attack the heroes. 
+Level 1 – Characters are pulled through a portal to join Katherine. They land outside the castle onto the grass. There are lakes and spikes that the characters need to jump onto platforms in order to avoid death. Muffi will throw her daggers/glaives whatever they are at various Jelly Babies that are trying to attack the heroes. 
 
 Level 2 – Dungeon level - dark cellar twisted by the mafia teddy bear into his new personal maze. Level will have alot of obsticales based around the main character for this level, the tank which would trigger events causing the level to change. The level will contain very few enemies but will mostly focus on traps and the deisgn is made so that this will be a maze. (Floor traps are still undecided)
 
